@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://VanillaViking.github.io'
 languageCode = 'en-us'
 title = 'Ashwin Rajesh'
 theme = "ananke"
@@ -14,10 +14,3 @@ ananke_socials = [
   { name = "instagram", url = "https://www.instagram.com/ashwinr2k2" },
   { name = "linkedin", url = "https://www.linkedin.com/in/ashwin-rajesh-6a4960208/" }
 ]
-
-[deployment]
-
-[[deployment.targets]]
-
-name = "ashwin"
-URL = "gs://ashwinr2k2"
