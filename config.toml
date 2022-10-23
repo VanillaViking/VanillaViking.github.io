@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ashwin Rajesh'
+theme = "ananke"
+
+publishdir = "vanillaviking-7884/"
+
+[Params]
+
+background_color_class = "bg-navy"
+
+ananke_socials = [
+  { name = "github", url = "https://github.com/VanillaViking" },
+  { name = "instagram", url = "https://www.instagram.com/ashwinr2k2" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/ashwin-rajesh-6a4960208/" }
+]
+
+[deployment]
+
+[[deployment.targets]]
+
+name = "ashwin"
+URL = "gs://ashwinr2k2"

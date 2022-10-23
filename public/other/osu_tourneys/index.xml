@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>osu! Tournament History on Ashwin Rajesh</title>
+    <link>http://example.org/other/osu_tourneys/</link>
+    <description>Recent content in osu! Tournament History on Ashwin Rajesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 21:13:18 +1100</lastBuildDate><atom:link href="http://example.org/other/osu_tourneys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Osu! Global Tournament</title>
+      <link>http://example.org/other/osu_tourneys/ogt/</link>
+      <pubDate>Fri, 09 Oct 2020 21:13:18 +1100</pubDate>
+      
+      <guid>http://example.org/other/osu_tourneys/ogt/</guid>
+      <description>&lt;h2 id=&#34;position-qf&#34;&gt;Position: QF&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Osu India Regional Tournament</title>
+      <link>http://example.org/other/osu_tourneys/regionals/</link>
+      <pubDate>Mon, 20 Jul 2020 21:13:18 +1100</pubDate>
+      
+      <guid>http://example.org/other/osu_tourneys/regionals/</guid>
+      <description>&lt;h2 id=&#34;position-3rd-&#34;&gt;Position: 3rd 🥉&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Osu India Freemod Tournament</title>
+      <link>http://example.org/other/osu_tourneys/oifreemod/</link>
+      <pubDate>Sun, 31 May 2020 21:13:18 +1100</pubDate>
+      
+      <guid>http://example.org/other/osu_tourneys/oifreemod/</guid>
+      <description>&lt;h2 id=&#34;position-qf&#34;&gt;Position: QF&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Osu India Summer Tournament 2020</title>
+      <link>http://example.org/other/osu_tourneys/oist2020/</link>
+      <pubDate>Sun, 31 May 2020 21:13:18 +1100</pubDate>
+      
+      <guid>http://example.org/other/osu_tourneys/oist2020/</guid>
+      <description>&lt;h2 id=&#34;position-5th&#34;&gt;Position: 5th&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Osu India Winter Tournament 2020</title>
+      <link>http://example.org/other/osu_tourneys/oiwt2020/</link>
+      <pubDate>Mon, 16 Dec 2019 21:13:18 +1100</pubDate>
+      
+      <guid>http://example.org/other/osu_tourneys/oiwt2020/</guid>
+      <description>&lt;h2 id=&#34;position-3rd-&#34;&gt;Position: 3rd 🥉&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
