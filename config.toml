@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Ashwin Rajesh'
 theme = "ananke"
 
-publishdir = "vanillaviking-7884/"
-
 [Params]
 
 background_color_class = "bg-navy"

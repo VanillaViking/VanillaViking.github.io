@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://VanillaViking.github.io/</loc>
     <lastmod>2022-10-21T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hello-world/</loc>
+    <loc>https://VanillaViking.github.io/posts/hello-world/</loc>
     <lastmod>2022-10-21T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://VanillaViking.github.io/posts/</loc>
     <lastmod>2022-10-21T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/ogt/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/ogt/</loc>
     <lastmod>2020-10-09T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/</loc>
     <lastmod>2020-10-09T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/</loc>
+    <loc>https://VanillaViking.github.io/other/</loc>
     <lastmod>2020-10-09T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/regionals/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/regionals/</loc>
     <lastmod>2020-07-20T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/oifreemod/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/oifreemod/</loc>
     <lastmod>2020-05-31T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/oist2020/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/oist2020/</loc>
     <lastmod>2020-05-31T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/oiwt2020/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/oiwt2020/</loc>
     <lastmod>2019-12-16T21:13:18+11:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://VanillaViking.github.io/about/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://VanillaViking.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/other/osu_tourneys/</loc>
+    <loc>https://VanillaViking.github.io/other/osu_tourneys/</loc>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://VanillaViking.github.io/projects/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://VanillaViking.github.io/tags/</loc>
   </url><url>
-    <loc>http://example.org/projects/zyenyo/</loc>
+    <loc>https://VanillaViking.github.io/projects/zyenyo/</loc>
   </url>
 </urlset>
