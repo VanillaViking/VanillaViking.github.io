@@ -9,6 +9,5 @@ featured_image: "/osu_tourneys/cope0.png"
 <!--more-->
 I should have taken qualifiers more seriously. Qualifiers are sometimes more nerve inducing for me than a grand finals match...It's probably just because I don't practice as thouroughly but whatever I need to figure it out
 
-[Forum Post](https://osu.ppy.sh/community/forums/topics/1317363?n=1)
---------
+> [Forum Post](https://osu.ppy.sh/community/forums/topics/1317363?n=1)
 

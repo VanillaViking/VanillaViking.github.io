@@ -11,8 +11,7 @@ this was a pretty cool tourney concept, it didnt hit me how much the playerbase 
 
 It was a struggle to actually play though, since our team was short-handed for every match we play. We managed to make it past groups despite that which was cool. Fun tourney except for the scheduling hell
 
-[Forum Post](https://osu.ppy.sh/community/forums/topics/1422329?n=1)
---------
+> [Forum Post](https://osu.ppy.sh/community/forums/topics/1422329?n=1)
 
 Tomfoolery
 --------

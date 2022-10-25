@@ -9,8 +9,8 @@ featured_image: "/osu_tourneys/broccoli0.png"
 <!--more-->
 PSA: Don't try to sightread a 6.4\* qualifier pool with a week of rust.
 
-[Forum Post](https://osu.ppy.sh/community/forums/topics/1479033?n=1)
---------
+> [Forum Post](https://osu.ppy.sh/community/forums/topics/1479033?n=1)
+
 
 Tomfoolery
 ---------

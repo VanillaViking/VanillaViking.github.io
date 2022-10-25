@@ -9,7 +9,6 @@ Paginate = 100
 background_color_class = "bg-navy"
 body_classes = "avenir bg-near-white"
 post_content_classes = "ubuntu"
-text_color = "navy"
 
 ananke_socials = [
   { name = "github", url = "https://github.com/VanillaViking" },

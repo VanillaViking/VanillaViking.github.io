@@ -10,5 +10,4 @@ featured_image: /osu_tourneys/smst0.png
 <!--more-->
 This was something that I signed up for just out of boredom. I exceeded my expectations for playing at 2am with no preparation.
 
-[Forum Post](https://osu.ppy.sh/community/forums/topics/1391958?n=1)
-------
+> [Forum Post](https://osu.ppy.sh/community/forums/topics/1391958?n=1)

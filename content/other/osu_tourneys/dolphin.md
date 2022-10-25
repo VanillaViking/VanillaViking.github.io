@@ -9,8 +9,7 @@ QF
 <!--more-->
 Played this one with Cyan, lxfire, seratonin, squidstain, ItsDark and Cookie dash. I was pretty happy with my performance in this one and we managed to go pretty far. seratonin and squidstain carried us pretty hard :P
 
-[Forum Post](https://osu.ppy.sh/community/forums/topics/1187105?n=1)
-----------
+> [Forum Post](https://osu.ppy.sh/community/forums/topics/1187105?n=1)
 
 
 

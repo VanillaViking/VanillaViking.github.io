@@ -9,6 +9,5 @@ QF
 <!--more-->
 I barely remember playing this but it was cool we went further than expected.
 
-[Forum Post](https://osu.ppy.sh/community/forums/topics/1120271)
---------
+> [Forum Post](https://osu.ppy.sh/community/forums/topics/1120271)
 
