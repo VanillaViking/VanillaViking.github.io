@@ -4,7 +4,7 @@ date: 2021-08-08T21:13:18+11:00
 featured_image: "/osu_tourneys/5wc0.png"
 ---
 
-Position: 33rd
+33rd
 ----------
 
 <!--more-->

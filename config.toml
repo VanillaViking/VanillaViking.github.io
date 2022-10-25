@@ -2,6 +2,7 @@ baseURL = 'https://VanillaViking.github.io'
 languageCode = 'en-us'
 title = 'Ashwin Rajesh'
 theme = "ananke"
+Paginate = 100
 
 [Params]
 
