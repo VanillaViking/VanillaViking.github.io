@@ -5,5 +5,7 @@ featured_image: '/projects.jpg'
 menu:
   main:
     weight: 1
+
+weight: 2
 ---
 

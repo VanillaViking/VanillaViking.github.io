@@ -2,6 +2,13 @@
  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
     {{ .Content }}
   </article>
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range .Site.Sections }}
+        <div class="relative w-100 w-30-l mb4">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </section>
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
   {{/* Create a variable with that section to use in multiple places. */}}
