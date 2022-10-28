@@ -3,6 +3,7 @@ title: "Making Contributions"
 description: "Give back to open source projects!"
 date: 2022-10-27T21:13:18+11:00
 draft: true
+featured_image: "/about0.png"
 ---
 
 <!--more-->
