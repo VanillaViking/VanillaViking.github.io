@@ -3,7 +3,7 @@ title: "Zyenyo"
 date: 2022-10-25T21:13:18+11:00
 description: "A discord bot that serves typing tests."
 featured_image: '/zyenyo.jpg'
-draft: true
+draft: false
 ---
 
 <!--more-->
