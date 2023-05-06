@@ -19,7 +19,15 @@ To get started, follow the instructions on the main page of the repository, or h
 
 * Copy the script somewhere into your computer and make it executable with `chmod +x info-timezone.sh`
 * Enter the timeones that you want inside the script
-* Copy the example configuration from the repository into your polybar config file
+* Copy the following example configuration into your polybar config file:
+```ini
+[module/info-timezone]
+type = custom/script
+exec = ~/polybar-scripts/info-timezone.sh
+tail = true
+click-left = kill -USR1 %pid%
+```
 
-Also check out the other scripts in the [polybar scripts repository](https://github.com/polybar/polybar-scripts/). There ar tons of different modules so you are bound to find something useful.
+
+Also check out the other scripts in the [polybar scripts repository](https://github.com/polybar/polybar-scripts/). There are tons of different modules so you are bound to find something useful.
 
