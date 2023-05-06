@@ -5,7 +5,7 @@
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
+        <div style="border-width: 1px; border-color:#cbd5e1;" class="relative w-100 w-30-l mb4 bg-white br3 ba">
           {{ .Render "summary" }}
         </div>
       {{ end }}
