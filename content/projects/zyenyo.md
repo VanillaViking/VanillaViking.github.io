@@ -7,9 +7,10 @@ draft: false
 ---
 
 <!--more-->
-> Created By: Ashwin and Seizoxu
+Created By: Ashwin and Seizoxu
 
-
+### [Add Zyenyo to your server!](https://discord.com/api/oauth2/authorize?client_id=696614233944752130&permissions=137439283200&scope=bot)
+\
 Talk about spontaneous plans.
 
 Feeling dissatisfied with an existing type-test bot, one day my friend Seizoxu casually commented that it would be interesting to build our own, with all the features we desired. It was a lazy Saturday afternoon; I was hardly going through the motions, yet, something *really* clicked with that idea.
