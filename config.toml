@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Ashwin Rajesh'
 theme = "ananke"
 Paginate = 100
+googleAnalytics = 'G-PM26JXPQWZ'
 
 [Params]
 
