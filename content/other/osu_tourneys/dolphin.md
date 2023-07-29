@@ -1,7 +1,7 @@
 ---
 title: "Dolphin Tournament"
 date: 2021-01-09T21:13:18+11:00
-featured_image: "/osu_tourneys/dolphin0.png"
+featured_image: "/osu_tourneys/dolphin0.webp"
 ---
 
 QF

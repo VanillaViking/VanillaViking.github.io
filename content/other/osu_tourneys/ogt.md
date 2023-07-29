@@ -1,7 +1,7 @@
 ---
 title: "Osu! Global Tournament"
 date: 2020-10-09T21:13:18+11:00
-featured_image: "/ogt.png"
+featured_image: "/ogt.webp"
 ---
 
 QF

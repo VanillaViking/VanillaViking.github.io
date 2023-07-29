@@ -1,7 +1,7 @@
 ---
 title: "SMST #23 [10k - 50k]"
 date: 2021-08-21T21:13:18+11:00
-featured_image: /osu_tourneys/smst0.png
+featured_image: /osu_tourneys/smst0.webp
 ---
 
 9th

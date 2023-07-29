@@ -1,7 +1,7 @@
 ---
 title: "Osu India Match Maker"
 date: 2023-07-29T21:13:18+11:00
-featured_image: "/osu_tourneys/oimm0.png"
+featured_image: "/osu_tourneys/oimm0.webp"
 ---
 
 Finals

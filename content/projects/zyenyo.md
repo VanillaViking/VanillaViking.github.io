@@ -2,7 +2,7 @@
 title: "Zyenyo"
 date: 2022-10-25T21:13:18+11:00
 description: "A discord bot that serves typing tests."
-featured_image: '/zyenyo.jpg'
+featured_image: '/zyenyo.webp'
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Talk about spontaneous plans.
 
 Feeling dissatisfied with an existing type-test bot, one day my friend Seizoxu casually commented that it would be interesting to build our own, with all the features we desired. It was a lazy Saturday afternoon; I was hardly going through the motions, yet, something *really* clicked with that idea.
 
-{{< figure src="/projects/zyenyo1.png" caption="Where it all started" class="mt5 mb5" >}}
+{{< figure src="/projects/zyenyo1.webp" caption="Where it all started" class="mt5 mb5" >}}
 
 Before Zyenyo, me and Sei would perform dozens of typing tests whenever we had time to spare, on a discord bot called *Nadeko*. While it served our purposes decently, there was potential for much more. Nadeko is an all-purpose bot that has thousands of other functions and features. In fact, the first slogan you see when you open up it's website is: **"One discord bot to replace a ton."** This typing test command was- well, *miscellaneous*.
 
@@ -26,6 +26,6 @@ As we began developing, the project naturally took on the philosophy of **"Doing
 > [Source code](https://github.com/Seizoxu/Zyenyo)
 
 
-{{< figure src="/projects/zyenyo2.png" caption="Start a typing test" class="mt5 mb5" >}}
+{{< figure src="/projects/zyenyo2.webp" caption="Start a typing test" class="mt5 mb5" >}}
 
-{{< figure src="/projects/zyenyo3.png" caption="Leaderboards" class="mt5 mb5" >}}
+{{< figure src="/projects/zyenyo3.webp" caption="Leaderboards" class="mt5 mb5" >}}

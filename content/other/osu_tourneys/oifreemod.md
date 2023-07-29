@@ -13,6 +13,6 @@ Tomfoolery
 
 advanced communication
 
-![broken image](/osu_tourneys/freemod0.png)
+![broken image](/osu_tourneys/freemod0.webp)
 
-![broken image](/osu_tourneys/freemod1.png)
+![broken image](/osu_tourneys/freemod1.webp)

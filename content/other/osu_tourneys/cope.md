@@ -1,7 +1,7 @@
 ---
 title: "Cope Cup 4v4"
 date: 2021-06-21T21:13:18+11:00
-featured_image: "/osu_tourneys/cope0.png"
+featured_image: "/osu_tourneys/cope0.webp"
 ---
 
 33rd

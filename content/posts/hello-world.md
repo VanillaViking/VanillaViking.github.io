@@ -3,7 +3,7 @@ title: "Hello World"
 description: "Getting Started"
 date: 2022-10-21T21:13:18+11:00
 draft: false
-featured_image: "/hugo.png"
+featured_image: "/hugo.webp"
 ---
 
 <!--more-->

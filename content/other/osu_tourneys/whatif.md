@@ -1,7 +1,7 @@
 ---
 title: "What If?"
 date: 2021-12-11T15:48:09+11:00
-featured_image: "/osu_tourneys/whatif0.png"
+featured_image: "/osu_tourneys/whatif0.webp"
 ---
 
 RO32 
@@ -18,6 +18,6 @@ Tomfoolery
 
 4 way FC!
 
-![broken](/osu_tourneys/whatif1.png)
+![broken](/osu_tourneys/whatif1.webp)
 
 

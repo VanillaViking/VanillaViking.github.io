@@ -1,7 +1,7 @@
 ---
 title: "5 Digit World Cup"
 date: 2021-08-08T21:13:18+11:00
-featured_image: "/osu_tourneys/5wc0.png"
+featured_image: "/osu_tourneys/5wc0.webp"
 ---
 
 33rd
@@ -17,6 +17,6 @@ Tomfoolery
 
 Moment of despair
 
-![broken image](/osu_tourneys/5wc1.png)
+![broken image](/osu_tourneys/5wc1.webp)
 
 

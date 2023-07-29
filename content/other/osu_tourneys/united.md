@@ -1,7 +1,7 @@
 ---
 title: "United Cup"
 date: 2023-02-12T15:57:50+11:00
-featured_image: "/osu_tourneys/united0.png"
+featured_image: "/osu_tourneys/united0.webp"
 ---
 
 RO16
@@ -14,8 +14,8 @@ An Indian team finally qualified for a tourney again. This was a questionable co
 Highlight
 ---------
 
-![broken](/osu_tourneys/united1.png)
+![broken](/osu_tourneys/united1.webp)
 
 The only point we won
 
-![broken](/osu_tourneys/united2.png)
+![broken](/osu_tourneys/united2.webp)
