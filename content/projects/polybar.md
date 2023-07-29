@@ -2,7 +2,7 @@
 title: "Polybar Contributions"
 date: 2022-10-26T11:55:14+11:00
 description: "A fast and easy to use tool for creating status bars"
-featured_image: '/projects/polybar0.png'
+featured_image: '/projects/polybar0.webp'
 ---
 
 <!--more-->

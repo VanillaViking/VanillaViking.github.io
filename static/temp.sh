@@ -1,0 +1,13 @@
+cwebp -q 60 about0.png -o about0.webp
+cwebp -q 60 cafe.jpg -o cafe.webp
+cwebp -q 60 firewatch.jpg -o firewatch.webp
+cwebp -q 60 firewatch.webp -o firewatch.webp
+cwebp -q 60 hugo.png -o hugo.webp
+cwebp -q 60 jojo.jpg -o jojo.webp
+cwebp -q 60 lazer.png -o lazer.webp
+cwebp -q 60 nvim.jpg -o nvim.webp
+cwebp -q 60 ogt.png -o ogt.webp
+cwebp -q 60 osuindia.jpg -o osuindia.webp
+cwebp -q 60 osu.png -o osu.webp
+cwebp -q 60 projects.jpg -o projects.webp
+cwebp -q 60 zyenyo.jpg -o zyenyo.webp

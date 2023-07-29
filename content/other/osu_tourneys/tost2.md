@@ -1,7 +1,7 @@
 ---
 title: "ToST 2 [10k - 50k]"
 date: 2021-10-10T21:13:18+11:00
-featured_image: /osu_tourneys/tost20.png
+featured_image: /osu_tourneys/tost20.webp
 ---
 
 RO16

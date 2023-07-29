@@ -1,7 +1,7 @@
 ---
 title: "osu! India Featured Videos"
 date: 2023-05-06T10:59:59+10:00
-featured_image: "/osuindia.jpg"
+featured_image: "/osuindia.webp"
 ---
 
 <!--more-->
