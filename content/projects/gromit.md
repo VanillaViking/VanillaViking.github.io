@@ -7,7 +7,7 @@ featured_image: '/projects/gromit0.png'
 
 <!--more-->
 
-[Gromit-mpx](https://github.com/bk138/gromit-mpx) is primarily designed to be a on-screen annotation tool useful for highlighting things during presentations. However due to its quick and easy hotkeys, it also showed potential as a basic note taking tool. This fork of gromit-mpx aims to give you full freedom to sketch anything anywhere on your desktop, and persist those notes between launches. 
+[Gromit-notes](https://github.com/VanillaViking/gromit-notes) simply allows you to sketch anywhere on your desktop, and save it. It's parent, [Gromit-mpx](https://github.com/bk138/gromit-mpx) was primarily designed to be a on-screen annotation tool useful for highlighting things during presentations. However due to its quick and easy hotkeys, it also showed potential as a basic note taking tool. This fork of gromit-mpx aims to give you full freedom to sketch anything anywhere on your desktop, and persist those notes between launches. 
 
 > [Github repository](https://github.com/VanillaViking/gromit-notes)
 
